@@ -1,3 +1,119 @@
-.dnuts {
-	font-weight: bold;
+
+*{  background-color: #e6e6fa	;
+  
 }
+
+.maincontainer {
+  background-color: #b0c4de;
+  padding-bottom: 9px;
+  color: #ffe4c4	;
+}
+
+.headerlinks a {
+  margin-right: 1px;
+  margin-left: 2px;
+  color: black;
+    background-color: #b0c4de;
+  text-decoration: none;
+}
+
+.headerlinks {
+    background-color: #b0c4de;
+
+}
+
+.headerlinks2 a {
+  margin-left:63%;
+   color: black;
+    background-color: #b0c4de;
+text-decoration: none;
+}
+
+.headerlinks2 {
+ background-color: #b0c4de;
+}
+.NavTitle {
+  font-weight: bold;
+  font-size: 130%;
+    color: black;
+    background-color: #b0c4de;
+
+}
+.logo {
+  font-weight: 900;
+  font-size: 120%;
+    color: ;
+    background-color: #b0c4de;
+ margin-right: 10px;
+  margin-left: 6px;
+}
+
+.span{
+  background-color: grey ;
+}
+.first entry {
+  background-color: lightblue;
+}
+
+.firstlink {
+  color: grey;
+  
+}
+.call {
+  color: black;
+  text-decoration: none;
+}
+
+.minibox {
+  margin-left: 1.4%;
+  font-size: 13px;
+}
+.subtext {
+  margin: 0em;
+}
+
+.arrowspan {
+  margin: 0em;
+}
+
+.ironspan {
+  margin: 0em;
+  background-color:#b0c4de ;
+}
+.iron {
+  width: 30px;
+  }
+.footerline {
+  border-color: #b0c4de;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-top-width: 3px;
+border-top-style: solid;
+}
+
+.Firstfooter a{
+  
+  text-decoration: none;
+  background-color:#e6e6fa;
+  color: black;
+  margin-right: -4px;
+  padding-right: 4px;
+  padding-left: 30%;
+  font-size: 80%;
+}
+
+.secondcontainer {
+  background-color: #e6e6fa;
+  padding-top: 15px;
+  color: grey	;
+}
+.headerlinks3 a {
+  ;
+   color: black;
+    background-color: #e6e6fa;
+text-decoration: none;
+  font-size: 80%;  
+}
+
+.headerlinks3 {
+ background-color: #e6e6fa;
